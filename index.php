@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World!";
+echo "power is money money is power ";
